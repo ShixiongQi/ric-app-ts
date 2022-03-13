@@ -5,8 +5,8 @@
             {
                 "name": "trafficxapp",
                 "image": {
-                    "registry": "nexus3.o-ran-sc.org:10002",
-                    "name": "o-ran-sc/ric-app-ts",
+                    "registry": "docker.io",
+                    "name": "shixiongqi/ric-app-ts",
                     "tag": "1.2.1"
                 }
             }
